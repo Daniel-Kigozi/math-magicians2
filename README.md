@@ -32,9 +32,21 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Math-Magician]
+
+> Describe your project in 1 or 2 sentences.
+
+**[Math Magician]** 
+-This project is math magician for calculating figures
+
+## 🛠 Built With
+-React
+
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features
 
 > Describe between 1-3 key features of the application.
 
@@ -44,7 +56,7 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started 
 
 > Describe how a new developer could make use of your project.
 
@@ -79,8 +91,6 @@ To run the project, execute the following command:
 - Run `cd math-magicians2`
 - Run `npm install`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 👤 **Author1**
@@ -95,13 +105,12 @@ To run the project, execute the following command:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -111,8 +120,6 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
@@ -121,12 +128,7 @@ If you like this project...
 
 I would like to give thanks to Microverse.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
