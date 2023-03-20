@@ -32,18 +32,6 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [Math-Magician] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
-
-**[Math Magician]** 
--This project is math magician for calculating figures
-
-## 🛠 Built With <a name="built-with"></a>
--React
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -66,6 +54,7 @@ To get a local copy up and running, follow these steps.
 -IDE
 -Download the link from git
 -Run npm install 
+-Run npm start
 
 ### Prerequisites
 
@@ -87,7 +76,7 @@ Install this project with:
 
 To run the project, execute the following command:
 - Clone the repository `git clone https://github.com/Daniel-Kigozi/math-magicians2`
-- Run `cd math-magicians`
+- Run `cd math-magicians2`
 - Run `npm install`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
